@@ -46,16 +46,16 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <a href="https://www.cpp.com" target="_blank" rel="noreferrer"> 
+    <img alt="Java" src="https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
+  <a href="https://www.sql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=SQL&logoColor=ffdd54" 
       alt="python"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -68,6 +68,10 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/React-F7DF1E.svg?style=for-the-badge&logo=React&logoColor=black"
       alt="javascript"/> 
   </a>
 </p>
