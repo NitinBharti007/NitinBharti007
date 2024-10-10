@@ -46,7 +46,7 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.cpp.com" target="_blank" rel="noreferrer"> 
+  <a href="https://www.c++.com" target="_blank" rel="noreferrer"> 
     <img alt="Java" src="https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=white"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -152,7 +152,7 @@
     <img src="https://img.shields.io/badge/render-430098.svg?style=for-the-badge&logo=render&logoColor=white"
       alt="render"/> 
   </a>
-    <a href="https://github.com/ritik177" target="_blank">
+    <a href="https://github.com/NitinBharti007" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a> 
 </p>
@@ -173,38 +173,38 @@
 * [Portfolio(JavaScript)](https://github.com/NitinBharti007/MyPortfolio.git)
 * [Weather-app (API used)](https://github.com/NitinBharti007/Weather_App.git)
 * [MovieApp](https://github.com/NitinBharti007/MovieApp.git)
-* [News-app (API used)](https://github.com/ritik177/News-app)
 * [To-Do-List(JavaScript)](https://github.com/NitinBharti007/To_do-app.git)
 
 #### UI Projects :
 
-* [Fiver-Clone (React)](https://github.com/ritik177/Fiverr-clone-UI)
-* [Fiver-Clone (React)](https://github.com/ritik177/Fiverr-clone-UI)
-* [Fiver-Clone (React)](https://github.com/ritik177/Fiverr-clone-UI)
-* [Fiver-Clone (React)](https://github.com/ritik177/Fiverr-clone-UI)
+* [User Management(React)](https://github.com/NitinBharti007/UserManageUI.git)
+* [Car Rental App(React)](https://github.com/NitinBharti007/ZYMO_ReactUI.git)
+* [Challenge Management System(React)](https://github.com/NitinBharti007/CMS_React_MUI.git)
+* [FlipKart(React)](https://github.com/NitinBharti007/FlipKart_UI_HomePage.git)
+* [Payment_Validation(Next)](https://github.com/NitinBharti007/Payment_Validation_UI_NextJS.git)
 
 
 <!-- <hr> -->
 ---
 
  <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritik177&theme=2077"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitinBharti007&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 
 ## 📊 GitHub Activity
 
 
-| ![ritik177 Github Stats](https://github-readme-stats.vercel.app/api?username=ritik177&show_icons=true&theme=radical) | ![ritik177 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritik177&theme=radical)                                                                                                           |
+| ![NitinBharti007 Github Stats](https://github-readme-stats.vercel.app/api?username=NitinBharti007&show_icons=true&theme=radical) | ![NitinBharti007 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NitinBharti007&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik177&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritik177&theme=radical&utcOffset=8) |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritik177&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritik177&theme=2077)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NitinBharti007&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NitinBharti007&theme=radical&utcOffset=8) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NitinBharti007&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NitinBharti007&theme=2077)
 
 <!-- color=nord_dark -->
 
 <hr>
 
 ## 📈 GitHub Contribution Graph
-[![Ritik Patel github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritik177&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/ritik177/github-readme-activity-graph)
+[![Nitin Bharti github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NitinBharti007&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/NitinBharti007/github-readme-activity-graph)
 
 
 
