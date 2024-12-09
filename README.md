@@ -1,6 +1,6 @@
 <!-- ![logo] -->
 
-<img src="https://mlevoeuxkg44.i.optimole.com/w:1024/h:512/q:mauto/f:avif/https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg" width="1200" height="320">
+<!-- <img src="https://mlevoeuxkg44.i.optimole.com/w:1024/h:512/q:mauto/f:avif/https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg" width="1200" height="320">
 <!-- <img src="https://mlevoeuxkg44.i.optimole.com/w:1024/h:512/q:mauto/f:avif/https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg" width="1200" height="320"> -->
 
 
