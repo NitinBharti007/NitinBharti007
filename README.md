@@ -16,7 +16,7 @@
 ---
 ### 👦 About Me
 - *🌱 Learning Never Stops 🚀*
-- 🔭 Check out my personal *portfolio :* [Portfolio](https://nitinbh.netlify.app/)
+- 🔭 Check out my personal *portfolio :* [Portfolio](https://nitinbharti.in)
 - 👨‍💻 All of my projects are available at *:* [Github](https://github.com/NitinBharti007)
 - 📫 How to reach me *:* *dev.nitin63@gmail.com*
 - 📄 Know about my experiences *:* <a href="https://drive.google.com/file/d/1cO3kDV9ZbSEo_c7Sras7wGVM-Tw2wIrz/view?usp=sharing">Resume</a>
