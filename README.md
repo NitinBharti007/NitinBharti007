@@ -160,13 +160,11 @@
 ---
 ### ⚙ My Projects 
 
-<!--  #### Full-Stack Projects :
-* [Amazon-Clone-app(MERN)](https://github.com/ritik177/Amazon-Clone)
-* [Chat-app (MERN)](https://github.com/ritik177/ChatApp)
-* [CRUD-Using-MERN](https://github.com/ritik177/CRUD-Application-Using-MERN-Stack)
-* [Login-With-Google](https://github.com/ritik177/LoginWithGoogle)
--->
-
+#### Full-Stack Projects :
+* [Quicko - E-Commerce(MERN)](https://github.com/NitinBharti007/Quicko_App.git)
+* [Personal Portfolio & Blog (React & Supabase)](https://github.com/NitinBharti007/Professional_Portfolio.git)
+* [Lab Report Portal](https://github.com/NitinBharti007/Lab-Report-Portal.git)
+  
 #### Frontend Projects :
 * [E-Commerce](https://github.com/NitinBharti007/React_UI_E-Commerce.git)
 * [Portfolio(React)](https://nitinbh.netlify.app/)
@@ -176,7 +174,6 @@
 * [To-Do-List(JavaScript)](https://github.com/NitinBharti007/To_do-app.git)
 
 #### UI Projects :
-
 * [User Management(React)](https://github.com/NitinBharti007/UserManageUI.git)
 * [Car Rental App(React)](https://github.com/NitinBharti007/ZYMO_ReactUI.git)
 * [Challenge Management System(React)](https://github.com/NitinBharti007/CMS_React_MUI.git)
