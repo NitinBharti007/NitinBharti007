@@ -64,7 +64,7 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 </tr>
 <tr>
 <td>🌐</td>
-<td>Portfolio: <a href="https://nitinbharti.in">nitinbharti.in</a></td>
+<td>Portfolio: <a href="https://nitinbharti.vercel.app">nitinbharti.in</a></td>
 </tr>
 <tr>
 <td>📄</td>
