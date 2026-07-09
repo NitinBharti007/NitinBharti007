@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Nitin%20Bharti&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20Full%20Stack%20Developer%20-%20Next.js&descSize=18&descAlignY=60" width="100%" alt="Nitin Bharti Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header" width="100%" alt="Profile Header Wave" />
 
 </div>
 
 <div align="center">
 
-# Hi 👋, I'm Nitin Bharti
+<h1>Hi 👋, I'm Nitin Bharti</h1>
 
-### Software Engineer | Full-Stack Developer | MERN & Next.js Developer
+<h3>Software Engineer | Full-Stack Developer | MERN & Next.js Developer</h3>
 
+<p>
 I build modern, scalable, and user-friendly web applications using clean code, strong UI, and practical full-stack architecture.
+</p>
 
 </div>
 
@@ -18,7 +20,7 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=2500\&pause=800\&color=38BDF8\&center=true\&vCenter=true\&width=900\&lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+real-world+web+applications;Always+learning+and+improving)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2500&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+real-world+web+applications;Always+learning+and+improving" alt="Typing SVG" />
 
 </div>
 
@@ -28,7 +30,6 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <img src="https://komarev.com/ghpvc/?username=NitinBharti007&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/NitinBharti007?label=Followers&style=for-the-badge&color=0ea5e9" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/NitinBharti007?label=Stars&style=for-the-badge&color=8b5cf6" alt="GitHub Stars" />
 
 </div>
 
@@ -36,24 +37,50 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <div align="center">
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 </div>
 
-* 🚀 I am a passionate **Software Engineer** focused on building real-world web applications.
-* 💻 I work with **React.js, Next.js, Node.js, Express.js, MongoDB, SQL, TypeScript, and modern UI tools**.
-* 🌱 I believe in **continuous learning, clean code, and practical problem-solving**.
-* 🔭 Currently improving my skills in **full-stack architecture, scalable UI, APIs, and production-ready applications**.
-* 👨‍💻 All of my projects are available on [GitHub](https://github.com/NitinBharti007)
-* 🌐 Portfolio: [nitinbharti.in](https://nitinbharti.in)
-* 📄 Resume: [View Resume](https://drive.google.com/file/d/1cO3kDV9ZbSEo_c7Sras7wGVM-Tw2wIrz/view?usp=sharing)
-* 📫 Reach me at: **[dev.nitin63@gmail.com](mailto:dev.nitin63@gmail.com)**
+<table align="center">
+<tr>
+<td>🚀</td>
+<td>I am a passionate <b>Software Engineer</b> focused on building real-world web applications.</td>
+</tr>
+<tr>
+<td>💻</td>
+<td>I work with <b>React.js, Next.js, Node.js, Express.js, MongoDB, SQL, TypeScript, and modern UI tools</b>.</td>
+</tr>
+<tr>
+<td>🌱</td>
+<td>I believe in <b>continuous learning, clean code, and practical problem-solving</b>.</td>
+</tr>
+<tr>
+<td>🔭</td>
+<td>Currently improving my skills in <b>full-stack architecture, scalable UI, APIs, and production-ready applications</b>.</td>
+</tr>
+<tr>
+<td>👨‍💻</td>
+<td>All of my projects are available on <a href="https://github.com/NitinBharti007">GitHub</a>.</td>
+</tr>
+<tr>
+<td>🌐</td>
+<td>Portfolio: <a href="https://nitinbharti.in">nitinbharti.in</a></td>
+</tr>
+<tr>
+<td>📄</td>
+<td>Resume: <a href="https://drive.google.com/file/d/1cO3kDV9ZbSEo_c7Sras7wGVM-Tw2wIrz/view?usp=sharing">View Resume</a></td>
+</tr>
+<tr>
+<td>📫</td>
+<td>Reach me at: <a href="mailto:dev.nitin63@gmail.com"><b>dev.nitin63@gmail.com</b></a></td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🤝 Connect With Me
+<h2>🤝 Connect With Me</h2>
 
 </div>
 
@@ -78,7 +105,7 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <div align="center">
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 </div>
 
@@ -139,9 +166,9 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <div align="center">
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-### Projects that show my full-stack, frontend, and UI development skills
+<h3>Projects that show my full-stack, frontend, and UI development skills</h3>
 
 </div>
 
@@ -151,11 +178,7 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🛒 Quicko - E-Commerce MERN App
-
-</div>
+<h3 align="center">🛒 Quicko - E-Commerce MERN App</h3>
 
 <p align="center">
 A full-stack e-commerce application built with the MERN stack. It includes a modern shopping experience, frontend screens, backend APIs, and database integration.
@@ -183,11 +206,7 @@ A full-stack e-commerce application built with the MERN stack. It includes a mod
 
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🌐 Personal Portfolio & Blog
-
-</div>
+<h3 align="center">🌐 Personal Portfolio & Blog</h3>
 
 <p align="center">
 A personal portfolio and blog platform designed to showcase my projects, technical skills, experience, and developer journey.
@@ -216,11 +235,7 @@ A personal portfolio and blog platform designed to showcase my projects, technic
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🧪 Lab Report Portal
-
-</div>
+<h3 align="center">🧪 Lab Report Portal</h3>
 
 <p align="center">
 A web portal for managing and viewing lab reports with a clean interface and practical user flow for report handling.
@@ -247,11 +262,7 @@ A web portal for managing and viewing lab reports with a clean interface and pra
 
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 💳 Payment Validation UI
-
-</div>
+<h3 align="center">💳 Payment Validation UI</h3>
 
 <p align="center">
 A Next.js based payment validation interface focused on clean UI, user-friendly form validation, and smooth frontend experience.
@@ -282,9 +293,9 @@ A Next.js based payment validation interface focused on clean UI, user-friendly 
 
 <div align="center">
 
-## 💼 More Projects
+<h2>💼 More Projects</h2>
 
-### Other projects I have built while learning and improving my frontend skills
+<h3>Other projects I have built while learning and improving my frontend skills</h3>
 
 </div>
 
@@ -294,11 +305,7 @@ A Next.js based payment validation interface focused on clean UI, user-friendly 
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🎨 Frontend Applications
-
-</div>
+<h3 align="center">🎨 Frontend Applications</h3>
 
 <table>
 <tr>
@@ -327,11 +334,7 @@ A Next.js based payment validation interface focused on clean UI, user-friendly 
 
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🧩 UI Practice Projects
-
-</div>
+<h3 align="center">🧩 UI Practice Projects</h3>
 
 <table>
 <tr>
@@ -374,7 +377,7 @@ A Next.js based payment validation interface focused on clean UI, user-friendly 
 
 <div align="center">
 
-📈 Contribution Graph
+<h2>📈 Contribution Graph</h2>
 
 </div>
 
@@ -384,8 +387,11 @@ A Next.js based payment validation interface focused on clean UI, user-friendly 
 
 </div>
 
+---
 
-## 🐍 Contribution Snake
+<div align="center">
+
+<h2>🐍 Contribution Snake</h2>
 
 </div>
 
@@ -394,15 +400,23 @@ A Next.js based payment validation interface focused on clean UI, user-friendly 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NitinBharti007/NitinBharti007/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NitinBharti007/NitinBharti007/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/NitinBharti007/NitinBharti007/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/NitinBharti007/NitinBharti007/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>Thanks for visiting my profile 😊</h2>
+
+<h3>Let's connect, collaborate, and build something amazing.</h3>
 
 </div>
 
 <div align="center">
 
-## Thanks for visiting my profile 😊
-
-### Let's connect, collaborate, and build something amazing.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%" alt="Profile Footer Wave" />
 
 </div>
