@@ -174,122 +174,114 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<h3 align="center">🛒 Quicko - E-Commerce MERN App</h3>
+<h3>🛒 Quicko - E-Commerce MERN App</h3>
 
-<p align="center">
+<p>
 A full-stack e-commerce application built with the MERN stack. It includes a modern shopping experience, frontend screens, backend APIs, and database integration.
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Category-Full--Stack-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" />
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<p align="center">
 <a href="https://github.com/NitinBharti007/Quicko_App.git">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+---
 
-<h3 align="center">🌐 Personal Portfolio & Blog</h3>
+<div align="center">
 
-<p align="center">
+<h3>🌐 Personal Portfolio & Blog</h3>
+
+<p>
 A personal portfolio and blog platform designed to showcase my projects, technical skills, experience, and developer journey.
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Category-Portfolio-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge" />
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Frontend-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" />
 </p>
 
-<p align="center">
 <a href="https://github.com/NitinBharti007/Professional_Portfolio.git">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%" valign="top">
+---
 
-<h3 align="center">🧪 Lab Report Portal</h3>
+<div align="center">
 
-<p align="center">
+<h3>🧪 Lab Report Portal</h3>
+
+<p>
 A web portal for managing and viewing lab reports with a clean interface and practical user flow for report handling.
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Category-Web%20Portal-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Management%20System-F97316?style=for-the-badge" />
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Web%20App-2563EB?style=flat-square&logo=googlechrome&logoColor=white" />
 <img src="https://img.shields.io/badge/UI-8B5CF6?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Frontend-38BDF8?style=flat-square&logo=react&logoColor=black" />
 </p>
 
-<p align="center">
 <a href="https://github.com/NitinBharti007/Lab-Report-Portal.git">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+---
 
-<h3 align="center">💳 Payment Validation UI</h3>
+<div align="center">
 
-<p align="center">
+<h3>💳 Payment Validation UI</h3>
+
+<p>
 A Next.js based payment validation interface focused on clean UI, user-friendly form validation, and smooth frontend experience.
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Category-Frontend-38BDF8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge" />
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/UI%20Design-8B5CF6?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-<p align="center">
 <a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS.git">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
-</td>
-</tr>
-</table>
+</div>
 
-<br />
+---
 
 <div align="center">
 
@@ -301,67 +293,69 @@ A Next.js based payment validation interface focused on clean UI, user-friendly 
 
 <br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<h3 align="center">🎨 Frontend Applications</h3>
+<h3>🎨 Frontend Applications</h3>
 
-<table>
-<tr>
-<td>🛍️</td>
-<td><a href="https://github.com/NitinBharti007/React_UI_E-Commerce.git"><b>E-Commerce UI</b></a><br />Modern frontend e-commerce interface.</td>
-</tr>
-<tr>
-<td>👨‍💻</td>
-<td><a href="https://nitinbh.netlify.app/"><b>React Portfolio</b></a><br />Personal portfolio website built with React.</td>
-</tr>
-<tr>
-<td>🌦️</td>
-<td><a href="https://github.com/NitinBharti007/Weather_App.git"><b>Weather App</b></a><br />Weather application using API integration.</td>
-</tr>
-<tr>
-<td>🎬</td>
-<td><a href="https://github.com/NitinBharti007/MovieApp.git"><b>Movie App</b></a><br />Movie search and discovery frontend app.</td>
-</tr>
-<tr>
-<td>✅</td>
-<td><a href="https://github.com/NitinBharti007/To_do-app.git"><b>To-Do List App</b></a><br />Simple task management app using JavaScript.</td>
-</tr>
-</table>
+<p>
+🛍️ <a href="https://github.com/NitinBharti007/React_UI_E-Commerce.git"><b>E-Commerce UI</b></a><br />
+Modern frontend e-commerce interface.
+</p>
 
-</td>
+<p>
+👨‍💻 <a href="https://nitinbh.netlify.app/"><b>React Portfolio</b></a><br />
+Personal portfolio website built with React.
+</p>
 
-<td width="50%" valign="top">
+<p>
+🌦️ <a href="https://github.com/NitinBharti007/Weather_App.git"><b>Weather App</b></a><br />
+Weather application using API integration.
+</p>
 
-<h3 align="center">🧩 UI Practice Projects</h3>
+<p>
+🎬 <a href="https://github.com/NitinBharti007/MovieApp.git"><b>Movie App</b></a><br />
+Movie search and discovery frontend app.
+</p>
 
-<table>
-<tr>
-<td>👥</td>
-<td><a href="https://github.com/NitinBharti007/UserManageUI.git"><b>User Management UI</b></a><br />User management dashboard interface.</td>
-</tr>
-<tr>
-<td>🚗</td>
-<td><a href="https://github.com/NitinBharti007/ZYMO_ReactUI.git"><b>Car Rental App UI</b></a><br />Car rental frontend application.</td>
-</tr>
-<tr>
-<td>🏆</td>
-<td><a href="https://github.com/NitinBharti007/CMS_React_MUI.git"><b>Challenge Management System</b></a><br />Challenge management UI using React and Material UI.</td>
-</tr>
-<tr>
-<td>🛒</td>
-<td><a href="https://github.com/NitinBharti007/FlipKart_UI_HomePage.git"><b>Flipkart UI Clone</b></a><br />Flipkart-inspired homepage UI.</td>
-</tr>
-<tr>
-<td>💳</td>
-<td><a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS.git"><b>Payment Validation UI</b></a><br />Payment validation interface built with Next.js.</td>
-</tr>
-</table>
+<p>
+✅ <a href="https://github.com/NitinBharti007/To_do-app.git"><b>To-Do List App</b></a><br />
+Simple task management app using JavaScript.
+</p>
 
-</td>
-</tr>
-</table>
+</div>
+
+---
+
+<div align="center">
+
+<h3>🧩 UI Practice Projects</h3>
+
+<p>
+👥 <a href="https://github.com/NitinBharti007/UserManageUI.git"><b>User Management UI</b></a><br />
+User management dashboard interface.
+</p>
+
+<p>
+🚗 <a href="https://github.com/NitinBharti007/ZYMO_ReactUI.git"><b>Car Rental App UI</b></a><br />
+Car rental frontend application.
+</p>
+
+<p>
+🏆 <a href="https://github.com/NitinBharti007/CMS_React_MUI.git"><b>Challenge Management System</b></a><br />
+Challenge management UI using React and Material UI.
+</p>
+
+<p>
+🛒 <a href="https://github.com/NitinBharti007/FlipKart_UI_HomePage.git"><b>Flipkart UI Clone</b></a><br />
+Flipkart-inspired homepage UI.
+</p>
+
+<p>
+💳 <a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS.git"><b>Payment Validation UI</b></a><br />
+Payment validation interface built with Next.js.
+</p>
+
+</div>
 
 <br />
 
