@@ -141,48 +141,212 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 ## 🚀 Featured Projects
 
+### A selection of my full-stack, frontend, and UI projects
+
 </div>
 
-### Full-Stack Projects
+<br />
 
-| Project                                                                                   | Description                                                      | Tech                                   |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------- |
-| [Quicko - E-Commerce MERN App](https://github.com/NitinBharti007/Quicko_App.git)          | Full-stack e-commerce application with modern shopping features. | MongoDB, Express.js, React.js, Node.js |
-| [Personal Portfolio & Blog](https://github.com/NitinBharti007/Professional_Portfolio.git) | Personal portfolio and blog platform.                            | React.js, Supabase                     |
-| [Lab Report Portal](https://github.com/NitinBharti007/Lab-Report-Portal.git)              | Web portal for managing and viewing lab reports.                 | Full-Stack Web App                     |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Frontend Projects
+<h3 align="center">🛒 Quicko - E-Commerce MERN App</h3>
 
-| Project                                                                    | Description                                  |
-| -------------------------------------------------------------------------- | -------------------------------------------- |
-| [E-Commerce UI](https://github.com/NitinBharti007/React_UI_E-Commerce.git) | Modern frontend e-commerce interface.        |
-| [React Portfolio](https://nitinbh.netlify.app/)                            | Personal portfolio website built with React. |
-| [JavaScript Portfolio](https://github.com/NitinBharti007/MyPortfolio.git)  | Portfolio website built using JavaScript.    |
-| [Weather App](https://github.com/NitinBharti007/Weather_App.git)           | Weather application using API integration.   |
-| [Movie App](https://github.com/NitinBharti007/MovieApp.git)                | Movie search and discovery frontend app.     |
-| [To-Do List App](https://github.com/NitinBharti007/To_do-app.git)          | Simple task management app using JavaScript. |
+<div align="center">
 
-### UI Projects
+<a href="https://github.com/NitinBharti007/Quicko_App.git" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NitinBharti007&repo=Quicko_App&theme=tokyonight&hide_border=true" alt="Quicko E-Commerce MERN App" />
+</a>
 
-| Project                                                                                     | Description                                          |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [User Management UI](https://github.com/NitinBharti007/UserManageUI.git)                    | User management dashboard interface.                 |
-| [Car Rental App UI](https://github.com/NitinBharti007/ZYMO_ReactUI.git)                     | Car rental frontend application.                     |
-| [Challenge Management System](https://github.com/NitinBharti007/CMS_React_MUI.git)          | Challenge management UI using React and Material UI. |
-| [Flipkart UI Clone](https://github.com/NitinBharti007/FlipKart_UI_HomePage.git)             | Flipkart-inspired homepage UI.                       |
-| [Payment Validation UI](https://github.com/NitinBharti007/Payment_Validation_UI_NextJS.git) | Payment validation interface built with Next.js.     |
+</div>
+
+<br />
+
+<p align="center">
+Full-stack e-commerce application built with the MERN stack. Includes modern shopping features, frontend UI, backend APIs, and database integration.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://github.com/NitinBharti007/Quicko_App.git">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Personal Portfolio & Blog</h3>
+
+<div align="center">
+
+<a href="https://github.com/NitinBharti007/Professional_Portfolio.git" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NitinBharti007&repo=Professional_Portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio and Blog" />
+</a>
+
+</div>
+
+<br />
+
+<p align="center">
+Personal portfolio and blog platform designed to showcase my projects, skills, experience, and developer journey.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://github.com/NitinBharti007/Professional_Portfolio.git">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧪 Lab Report Portal</h3>
+
+<div align="center">
+
+<a href="https://github.com/NitinBharti007/Lab-Report-Portal.git" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NitinBharti007&repo=Lab-Report-Portal&theme=tokyonight&hide_border=true" alt="Lab Report Portal" />
+</a>
+
+</div>
+
+<br />
+
+<p align="center">
+Web portal for managing and viewing lab reports with a simple and clean interface for users.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Full--Stack-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20App-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</p>
+
+<p align="center">
+<a href="https://github.com/NitinBharti007/Lab-Report-Portal.git">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💳 Payment Validation UI</h3>
+
+<div align="center">
+
+<a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS.git" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NitinBharti007&repo=Payment_Validation_UI_NextJS&theme=tokyonight&hide_border=true" alt="Payment Validation UI" />
+</a>
+
+</div>
+
+<br />
+
+<p align="center">
+Payment validation interface built with Next.js, focused on clean UI, form handling, and user-friendly validation.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%20Design-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-38BDF8?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+<p align="center">
+<a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS.git">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+## 💼 More Projects
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎨 Frontend Projects
+
+<a href="https://github.com/NitinBharti007/React_UI_E-Commerce.git">E-Commerce UI</a> <a href="https://nitinbh.netlify.app/">React Portfolio</a> <a href="https://github.com/NitinBharti007/MyPortfolio.git">JavaScript Portfolio</a> <a href="https://github.com/NitinBharti007/Weather_App.git">Weather App</a> <a href="https://github.com/NitinBharti007/MovieApp.git">Movie App</a> <a href="https://github.com/NitinBharti007/To_do-app.git">To-Do List App</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧩 UI Projects
+
+<a href="https://github.com/NitinBharti007/UserManageUI.git">User Management UI</a> <a href="https://github.com/NitinBharti007/ZYMO_ReactUI.git">Car Rental App UI</a> <a href="https://github.com/NitinBharti007/CMS_React_MUI.git">Challenge Management System</a> <a href="https://github.com/NitinBharti007/FlipKart_UI_HomePage.git">Flipkart UI Clone</a> <a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS.git">Payment Validation UI</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Core Skills Used
+
+React.js
+Next.js
+Node.js
+Express.js
+MongoDB
+Supabase
+Tailwind CSS
+Material UI
+REST APIs
+Git & GitHub
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/NitinBharti007?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 📈 Contribution Graph
+## 📌 GitHub Profile Summary
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NitinBharti007&theme=react-dark&hide_border=true&area=true" width="100%" alt="Nitin Bharti GitHub Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitinBharti007&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
 
 </div>
 
@@ -190,7 +354,28 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <div align="center">
 
+## 📊 GitHub Stats
+
+</div>
+
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NitinBharti007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nitin Bharti GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=NitinBharti007&theme=tokyonight&hide_border=true" alt="Nitin Bharti GitHub Streak" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinBharti007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Nitin Bharti Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NitinBharti007&theme=github_dark&utcOffset=5.5" alt="Nitin Bharti Productive Time" />
+
+</div>
+
+---
+
 
 ## 🐍 Contribution Snake
 
