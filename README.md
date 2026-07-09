@@ -372,6 +372,18 @@ A Next.js based payment validation interface focused on clean UI, user-friendly 
 
 ---
 
+<div align="center">
+
+📈 Contribution Graph
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NitinBharti007&theme=react-dark&hide_border=true&area=true" width="100%" alt="Nitin Bharti GitHub Activity Graph" />
+
+</div>
+
 
 ## 🐍 Contribution Snake
 
