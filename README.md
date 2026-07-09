@@ -190,41 +190,6 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <div align="center">
 
-## 🎯 Current Focus
-
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">🚀</td>
-    <td><b>Building better full-stack applications</b></td>
-  </tr>
-  <tr>
-    <td align="center">⚡</td>
-    <td><b>Improving Next.js, TypeScript, and backend architecture</b></td>
-  </tr>
-  <tr>
-    <td align="center">🧩</td>
-    <td><b>Writing clean, scalable, and maintainable code</b></td>
-  </tr>
-  <tr>
-    <td align="center">📚</td>
-    <td><b>Learning production-level development workflows</b></td>
-  </tr>
-  <tr>
-    <td align="center">🤝</td>
-    <td><b>Contributing to meaningful real-world projects</b></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 <div align="center">
 
 ## 🐍 Contribution Snake
