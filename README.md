@@ -68,7 +68,7 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 </tr>
 <tr>
 <td>📄</td>
-<td>Resume: <a href="https://drive.google.com/file/d/1cO3kDV9ZbSEo_c7Sras7wGVM-Tw2wIrz/view?usp=sharing">View Resume</a></td>
+<td>Resume: <a href="https://drive.google.com/file/d/1lau7mphlER0S11msyNP8mILrAhzwpInp/view?usp=drive_link">View Resume</a></td>
 </tr>
 <tr>
 <td>📫</td>
