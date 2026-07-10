@@ -168,201 +168,194 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <h2>🚀 Featured Projects</h2>
 
-<h3>Projects that show my full-stack, frontend, and UI development skills</h3>
+<p>Selected projects that demonstrate my full-stack, frontend, and UI development skills.</p>
 
 </div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 Quicko</h3>
+
+<p align="center"><b>Full-Stack MERN E-Commerce App</b></p>
+
+<p align="center">
+A complete shopping application with product browsing, cart flows, backend APIs, and database integration.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p align="center">
+<a href="https://github.com/NitinBharti007/Quicko_App">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Quicko Repository" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Portfolio & Blog</h3>
+
+<p align="center"><b>Personal Developer Platform</b></p>
+
+<p align="center">
+A modern portfolio and blog for presenting projects, technical skills, experience, and my developer journey.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Responsive-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Responsive" />
+</p>
+
+<p align="center">
+<a href="https://github.com/NitinBharti007/Professional_Portfolio">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio Repository" />
+</a>
+<a href="https://nitinbharti.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Live Demo" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧪 Lab Report Portal</h3>
+
+<p align="center"><b>Report Management Portal</b></p>
+
+<p align="center">
+A practical web portal for organizing, managing, and viewing laboratory reports through a clean user flow.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Web_Portal-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Portal" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/UI-8B5CF6?style=flat-square&logo=figma&logoColor=white" alt="UI" />
+</p>
+
+<p align="center">
+<a href="https://github.com/NitinBharti007/Lab-Report-Portal">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Lab Report Portal Repository" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💳 Payment Validation UI</h3>
+
+<p align="center"><b>Next.js Form Experience</b></p>
+
+<p align="center">
+A responsive payment validation interface focused on clear feedback, strong form validation, and smooth interactions.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Form_Validation-F97316?style=flat-square" alt="Form Validation" />
+</p>
+
+<p align="center">
+<a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Payment Validation Repository" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <br />
-
-<div align="center">
-
-<h3>🛒 Quicko - E-Commerce MERN App</h3>
-
-<p>
-A full-stack e-commerce application built with the MERN stack. It includes a modern shopping experience, frontend screens, backend APIs, and database integration.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Category-Full--Stack-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Completed-22C55E?style=for-the-badge" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-<a href="https://github.com/NitinBharti007/Quicko_App.git">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<h3>🌐 Personal Portfolio & Blog</h3>
-
-<p>
-A personal portfolio and blog platform designed to showcase my projects, technical skills, experience, and developer journey.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Category-Portfolio-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Frontend-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" />
-</p>
-
-<a href="https://github.com/NitinBharti007/Professional_Portfolio.git">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<h3>🧪 Lab Report Portal</h3>
-
-<p>
-A web portal for managing and viewing lab reports with a clean interface and practical user flow for report handling.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Category-Web%20Portal-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Management%20System-F97316?style=for-the-badge" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Web%20App-2563EB?style=flat-square&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/UI-8B5CF6?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Frontend-38BDF8?style=flat-square&logo=react&logoColor=black" />
-</p>
-
-<a href="https://github.com/NitinBharti007/Lab-Report-Portal.git">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<h3>💳 Payment Validation UI</h3>
-
-<p>
-A Next.js based payment validation interface focused on clean UI, user-friendly form validation, and smooth frontend experience.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Category-Frontend-38BDF8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/UI%20Design-8B5CF6?style=flat-square&logo=figma&logoColor=white" />
-</p>
-
-<a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS.git">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
 <h2>💼 More Projects</h2>
 
-<h3>Other projects I have built while learning and improving my frontend skills</h3>
+<p>Additional applications and UI projects created while improving my frontend and problem-solving skills.</p>
 
 </div>
 
-<br />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-
-<h3>🎨 Frontend Applications</h3>
+<h3 align="center">🎨 Frontend Applications</h3>
 
 <p>
-🛍️ <a href="https://github.com/NitinBharti007/React_UI_E-Commerce.git"><b>E-Commerce UI</b></a><br />
-Modern frontend e-commerce interface.
+🛍️ <a href="https://github.com/NitinBharti007/React_UI_E-Commerce"><b>E-Commerce UI</b></a><br />
+<sub>Responsive shopping interface built with React.</sub>
 </p>
 
 <p>
 👨‍💻 <a href="https://nitinbh.netlify.app/"><b>React Portfolio</b></a><br />
-Personal portfolio website built with React.
+<sub>Personal portfolio website with a clean frontend design.</sub>
 </p>
 
 <p>
-🌦️ <a href="https://github.com/NitinBharti007/Weather_App.git"><b>Weather App</b></a><br />
-Weather application using API integration.
+🌦️ <a href="https://github.com/NitinBharti007/Weather_App"><b>Weather App</b></a><br />
+<sub>Weather search application using external API data.</sub>
 </p>
 
 <p>
-🎬 <a href="https://github.com/NitinBharti007/MovieApp.git"><b>Movie App</b></a><br />
-Movie search and discovery frontend app.
+🎬 <a href="https://github.com/NitinBharti007/MovieApp"><b>Movie App</b></a><br />
+<sub>Movie search and discovery interface.</sub>
 </p>
 
 <p>
-✅ <a href="https://github.com/NitinBharti007/To_do-app.git"><b>To-Do List App</b></a><br />
-Simple task management app using JavaScript.
+✅ <a href="https://github.com/NitinBharti007/To_do-app"><b>To-Do List App</b></a><br />
+<sub>Simple JavaScript task management application.</sub>
 </p>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
----
-
-<div align="center">
-
-<h3>🧩 UI Practice Projects</h3>
+<h3 align="center">🧩 UI Practice Projects</h3>
 
 <p>
-👥 <a href="https://github.com/NitinBharti007/UserManageUI.git"><b>User Management UI</b></a><br />
-User management dashboard interface.
+👥 <a href="https://github.com/NitinBharti007/UserManageUI"><b>User Management UI</b></a><br />
+<sub>Dashboard interface for managing users and records.</sub>
 </p>
 
 <p>
-🚗 <a href="https://github.com/NitinBharti007/ZYMO_ReactUI.git"><b>Car Rental App UI</b></a><br />
-Car rental frontend application.
+🚗 <a href="https://github.com/NitinBharti007/ZYMO_ReactUI"><b>Car Rental App UI</b></a><br />
+<sub>Modern vehicle rental frontend experience.</sub>
 </p>
 
 <p>
-🏆 <a href="https://github.com/NitinBharti007/CMS_React_MUI.git"><b>Challenge Management System</b></a><br />
-Challenge management UI using React and Material UI.
+🏆 <a href="https://github.com/NitinBharti007/CMS_React_MUI"><b>Challenge Management System</b></a><br />
+<sub>Management interface built with React and Material UI.</sub>
 </p>
 
 <p>
-🛒 <a href="https://github.com/NitinBharti007/FlipKart_UI_HomePage.git"><b>Flipkart UI Clone</b></a><br />
-Flipkart-inspired homepage UI.
+🛒 <a href="https://github.com/NitinBharti007/FlipKart_UI_HomePage"><b>Flipkart UI Clone</b></a><br />
+<sub>Marketplace-inspired responsive homepage.</sub>
 </p>
 
 <p>
-💳 <a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS.git"><b>Payment Validation UI</b></a><br />
-Payment validation interface built with Next.js.
+💳 <a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS"><b>Payment Validation UI</b></a><br />
+<sub>Next.js payment form with validation feedback.</sub>
 </p>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br />
 
 <div align="center">
 
 <a href="https://github.com/NitinBharti007?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
 </a>
 
 </div>
