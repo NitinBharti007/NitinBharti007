@@ -98,44 +98,6 @@ My work combines reliable functionality, clean interfaces, and maintainable code
 
 <div align="center">
 
-<h2>🤝 Connect With Me</h2>
-
-<p>
-Let's connect, exchange ideas, and build meaningful products together.
-</p>
-
-<a href="https://github.com/NitinBharti007">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
-    alt="GitHub"
-  />
-</a>
-<a href="https://www.linkedin.com/in/nitinbharti1163/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-<a href="mailto:dev.nitin63@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
-    alt="Gmail"
-  />
-</a>
-<a href="https://www.instagram.com/nit3.07/">
-  <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"
-    alt="Instagram"
-  />
-</a>
-
-</div>
-
-<br />
-<br />
-
-<div align="center">
-
 <h2>🏙️ 3D Contribution City</h2>
 
 <p>
@@ -201,6 +163,44 @@ alt="Nitin Bharti GitHub activity graph"
     alt="GitHub contribution snake animation"
   />
 </picture>
+
+</div>
+
+<br />
+<br />
+
+<div align="center">
+
+<h2>🤝 Connect With Me</h2>
+
+<p>
+Let's connect, exchange ideas, and build meaningful products together.
+</p>
+
+<a href="https://github.com/NitinBharti007">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+    alt="GitHub"
+  />
+</a>
+<a href="https://www.linkedin.com/in/nitinbharti1163/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+<a href="mailto:dev.nitin63@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+    alt="Gmail"
+  />
+</a>
+<a href="https://www.instagram.com/nit3.07/">
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"
+    alt="Instagram"
+  />
+</a>
 
 </div>
 
