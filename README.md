@@ -37,14 +37,15 @@ alt="GitHub followers"
 </div>
 
 <br />
+<br />
 
 <div align="center">
 
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I'm a developer who enjoys transforming ideas into useful digital products.
-My work combines reliable functionality, clean interfaces, and maintainable code.
+I'm a software developer who enjoys transforming ideas into useful digital products.
+My work combines reliable functionality, intuitive interfaces, and maintainable code.
 </p>
 
 <p>
@@ -127,26 +128,11 @@ A three-dimensional view of my GitHub contribution journey.
 
 <div align="center">
 
-<h2>📈 Contribution Graph</h2>
+<h2>🐍 Contribution Journey</h2>
 
 <p>
-A visual overview of my recent GitHub activity and development consistency.
+An animated view of my consistency and growth on GitHub.
 </p>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=NitinBharti007&amp;theme=react-dark&amp;hide_border=true&amp;area=true"
-width="100%"
-alt="Nitin Bharti GitHub activity graph"
-/>
-
-</div>
-
-<br />
-<br />
-
-<div align="center">
-
-<h2>🐍 Contribution Snake</h2>
 
 <picture>
   <source
@@ -171,10 +157,11 @@ alt="Nitin Bharti GitHub activity graph"
 
 <div align="center">
 
-<h2>🤝 Connect With Me</h2>
+<h2>🤝 Let's Connect</h2>
 
 <p>
-Let's connect, exchange ideas, and build meaningful products together.
+I'm always open to discussing software engineering, interesting projects,
+collaboration opportunities, and new ideas.
 </p>
 
 <a href="https://github.com/NitinBharti007">
@@ -212,7 +199,7 @@ Let's connect, exchange ideas, and build meaningful products together.
 <h2>Thanks for visiting my profile 😊</h2>
 
 <p>
-<strong>Let's connect, collaborate, and build something amazing.</strong>
+<strong>Let's connect, collaborate, and build something meaningful.</strong>
 </p>
 
 <img
