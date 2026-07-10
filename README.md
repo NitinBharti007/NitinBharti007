@@ -136,6 +136,35 @@ Let's connect, exchange ideas, and build meaningful products together.
 
 <div align="center">
 
+<h2>🏙️ 3D Contribution City</h2>
+
+<p>
+A three-dimensional view of my GitHub contribution journey.
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-3d-contrib/profile-night-rainbow.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile-3d-contrib/profile-season-animate.svg"
+  />
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="Nitin Bharti 3D GitHub contribution city"
+  />
+</picture>
+
+</div>
+
+<br />
+<br />
+
+<div align="center">
+
 <h2>📈 Contribution Graph</h2>
 
 <p>
