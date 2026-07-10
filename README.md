@@ -44,40 +44,50 @@ thoughtful UI, and practical full-stack architecture.
 <h2>👨‍💻 About Me</h2>
 
 <p>
-🚀 Passionate <strong>Software Engineer</strong> focused on building useful,
-real-world web applications.
+I'm a <strong>Software Engineer and Full-Stack Developer</strong> who enjoys turning ideas into
+modern, responsive, and practical web applications.
 </p>
 
 <p>
-💻 Working with <strong>React.js, Next.js, Node.js, Express.js, MongoDB,
-SQL, TypeScript, and modern UI technologies</strong>.
+I focus on writing clean code, building intuitive user interfaces, and creating
+scalable full-stack solutions that solve real-world problems.
+</p>
+
+<br />
+
+<p>
+<img src="https://img.shields.io/badge/Frontend-React.js%20%7C%20Next.js-38BDF8?style=flat-square" alt="Frontend" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express.js-22C55E?style=flat-square" alt="Backend" />
+<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20SQL-47A248?style=flat-square" alt="Database" />
+</p>
+
+<br />
+
+<p>
+🔭 Currently working on <strong>production-ready full-stack applications</strong>
 </p>
 
 <p>
-🌱 I believe in <strong>continuous learning, clean code, and practical
-problem-solving</strong>.
+🌱 Improving my knowledge of <strong>system architecture, APIs, scalable UI, and modern development practices</strong>
 </p>
 
 <p>
-🔭 Currently improving my skills in <strong>full-stack architecture,
-scalable interfaces, APIs, and production-ready applications</strong>.
+⚡ I enjoy <strong>learning new technologies, solving problems, and building meaningful products</strong>
 </p>
 
-<p>
-👨‍💻 Explore my projects on
-<a href="https://github.com/NitinBharti007"><strong>GitHub</strong></a>.
-</p>
+<br />
 
 <p>
-🌐 Visit my
-<a href="https://nitinbharti.vercel.app"><strong>Portfolio</strong></a>
-&nbsp;·&nbsp;
-📄 <a href="https://drive.google.com/file/d/1lau7mphlER0S11msyNP8mILrAhzwpInp/view?usp=sharing"><strong>View Resume</strong></a>
-</p>
-
-<p>
-📫 Reach me at
-<a href="mailto:dev.nitin63@gmail.com"><strong>dev.nitin63@gmail.com</strong></a>
+<a href="https://nitinbharti.vercel.app">
+<img src="https://img.shields.io/badge/View_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+</a>
+<a href="https://drive.google.com/file/d/1lau7mphlER0S11msyNP8mILrAhzwpInp/view?usp=sharing">
+<img src="https://img.shields.io/badge/View_Resume-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume" />
+</a>
+<a href="mailto:dev.nitin63@gmail.com">
+<img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+</a>
 </p>
 
 </div>
