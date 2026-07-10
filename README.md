@@ -1,35 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header" width="100%" alt="Profile Header Wave" />
-
-</div>
-
-<div align="center">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header"
+  width="100%"
+  alt="Profile header"
+/>
 
 <h1>Hi 👋, I'm Nitin Bharti</h1>
 
-<h3>Software Engineer | Full-Stack Developer | MERN & Next.js Developer</h3>
+<h3>Software Engineer · Full-Stack Developer · MERN & Next.js Developer</h3>
 
 <p>
-I build modern, scalable, and user-friendly web applications using clean code, strong UI, and practical full-stack architecture.
+I build modern, scalable, and user-friendly web applications with clean code,
+thoughtful UI, and practical full-stack architecture.
 </p>
 
-</div>
-
 <br />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2500&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+real-world+web+applications;Always+learning+and+improving" alt="Typing SVG" />
-
-</div>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+real-world+web+applications;Always+learning+and+improving"
+  width="100%"
+  alt="Typing animation"
+/>
 
 <br />
+<br />
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NitinBharti007&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/NitinBharti007?label=Followers&style=for-the-badge&color=0ea5e9" alt="GitHub Followers" />
+<img
+  src="https://komarev.com/ghpvc/?username=NitinBharti007&label=Profile%20Views&color=2563eb&style=for-the-badge"
+  alt="Profile views"
+/>
+<img
+  src="https://img.shields.io/github/followers/NitinBharti007?label=Followers&style=for-the-badge&color=0ea5e9"
+  alt="GitHub followers"
+/>
 
 </div>
 
@@ -39,42 +43,44 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <h2>👨‍💻 About Me</h2>
 
-</div>
+<p>
+🚀 Passionate <strong>Software Engineer</strong> focused on building useful,
+real-world web applications.
+</p>
 
-<table align="center">
-<tr>
-<td>🚀</td>
-<td>I am a passionate <b>Software Engineer</b> focused on building real-world web applications.</td>
-</tr>
-<tr>
-<td>💻</td>
-<td>I work with <b>React.js, Next.js, Node.js, Express.js, MongoDB, SQL, TypeScript, and modern UI tools</b>.</td>
-</tr>
-<tr>
-<td>🌱</td>
-<td>I believe in <b>continuous learning, clean code, and practical problem-solving</b>.</td>
-</tr>
-<tr>
-<td>🔭</td>
-<td>Currently improving my skills in <b>full-stack architecture, scalable UI, APIs, and production-ready applications</b>.</td>
-</tr>
-<tr>
-<td>👨‍💻</td>
-<td>All of my projects are available on <a href="https://github.com/NitinBharti007">GitHub</a>.</td>
-</tr>
-<tr>
-<td>🌐</td>
-<td>Portfolio: <a href="https://nitinbharti.vercel.app">nitinbharti.in</a></td>
-</tr>
-<tr>
-<td>📄</td>
-<td>Resume: <a href="https://drive.google.com/file/d/1lau7mphlER0S11msyNP8mILrAhzwpInp/view?usp=sharing">View Resume</a></td>
-</tr>
-<tr>
-<td>📫</td>
-<td>Reach me at: <a href="mailto:dev.nitin63@gmail.com"><b>dev.nitin63@gmail.com</b></a></td>
-</tr>
-</table>
+<p>
+💻 Working with <strong>React.js, Next.js, Node.js, Express.js, MongoDB,
+SQL, TypeScript, and modern UI technologies</strong>.
+</p>
+
+<p>
+🌱 I believe in <strong>continuous learning, clean code, and practical
+problem-solving</strong>.
+</p>
+
+<p>
+🔭 Currently improving my skills in <strong>full-stack architecture,
+scalable interfaces, APIs, and production-ready applications</strong>.
+</p>
+
+<p>
+👨‍💻 Explore my projects on
+<a href="https://github.com/NitinBharti007"><strong>GitHub</strong></a>.
+</p>
+
+<p>
+🌐 Visit my
+<a href="https://nitinbharti.vercel.app"><strong>Portfolio</strong></a>
+&nbsp;·&nbsp;
+📄 <a href="https://drive.google.com/file/d/1lau7mphlER0S11msyNP8mILrAhzwpInp/view?usp=sharing"><strong>View Resume</strong></a>
+</p>
+
+<p>
+📫 Reach me at
+<a href="mailto:dev.nitin63@gmail.com"><strong>dev.nitin63@gmail.com</strong></a>
+</p>
+
+</div>
 
 ---
 
@@ -82,306 +88,29 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <h2>🤝 Connect With Me</h2>
 
-</div>
-
-<div align="center">
-
-<a href="https://github.com/NitinBharti007" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/nitinbharti1163/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:dev.nitin63@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.instagram.com/nit3.07/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<h2>🛠️ Tech Stack</h2>
-
-</div>
-
-<h3 align="center">Languages</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-<h3 align="center">Frontend</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-</p>
-
-<h3 align="center">Backend</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
-
-<h3 align="center">Database</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
-
-<h3 align="center">Tools, Cloud & Hosting</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-</p>
-
----
-
-<div align="center">
-
-<h2>🚀 Projects</h2>
-
-<p>Some applications I have designed and developed.</p>
-
-</div>
-
-<table width="100%">
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-<h3>🛒 Quicko</h3>
-
-<sub>Full-Stack E-Commerce App</sub>
-
-<br /><br />
-
-<img
-  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"
-  alt="React"
-/>
-<img
-  src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"
-  alt="Node.js"
-/>
-
-<br /><br />
-
-<a href="https://github.com/NitinBharti007/Quicko_App">
+<a href="https://github.com/NitinBharti007">
   <img
-    src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"
-    alt="Quicko repository"
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>🌐 Portfolio</h3>
-
-<sub>Portfolio & Blog Platform</sub>
-
-<br /><br />
-
-<img
-  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"
-  alt="React"
-/>
-<img
-  src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"
-  alt="Supabase"
-/>
-
-<br /><br />
-
-<a href="https://github.com/NitinBharti007/Professional_Portfolio">
+<a href="https://www.linkedin.com/in/nitinbharti1163/">
   <img
-    src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"
-    alt="Portfolio repository"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
   />
 </a>
-
-<a href="https://nitinbharti.vercel.app">
+<a href="mailto:dev.nitin63@gmail.com">
   <img
-    src="https://img.shields.io/badge/Live-2563EB?style=flat-square&logo=vercel&logoColor=white"
-    alt="Portfolio live website"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
   />
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-<h3>🧪 Lab Portal</h3>
-
-<sub>Lab Report Management</sub>
-
-<br /><br />
-
-<img
-  src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"
-  alt="React"
-/>
-<img
-  src="https://img.shields.io/badge/Portal-0EA5E9?style=flat-square"
-  alt="Web Portal"
-/>
-
-<br /><br />
-
-<a href="https://github.com/NitinBharti007/Lab-Report-Portal">
+<a href="https://www.instagram.com/nit3.07/">
   <img
-    src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"
-    alt="Lab Portal repository"
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
   />
-</a>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>💳 Payment UI</h3>
-
-<sub>Payment Validation Form</sub>
-
-<br /><br />
-
-<img
-  src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"
-  alt="Next.js"
-/>
-<img
-  src="https://img.shields.io/badge/Validation-F97316?style=flat-square"
-  alt="Form Validation"
-/>
-
-<br /><br />
-
-<a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS">
-  <img
-    src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"
-    alt="Payment UI repository"
-  />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-<h2>💼 More Projects</h2>
-
-<p>Additional applications and UI projects created while improving my frontend and problem-solving skills.</p>
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🎨 Frontend Applications</h3>
-
-<p>
-🛍️ <a href="https://github.com/NitinBharti007/React_UI_E-Commerce"><b>E-Commerce UI</b></a><br />
-<sub>Responsive shopping interface built with React.</sub>
-</p>
-
-<p>
-👨‍💻 <a href="https://nitinbh.netlify.app/"><b>React Portfolio</b></a><br />
-<sub>Personal portfolio website with a clean frontend design.</sub>
-</p>
-
-<p>
-🌦️ <a href="https://github.com/NitinBharti007/Weather_App"><b>Weather App</b></a><br />
-<sub>Weather search application using external API data.</sub>
-</p>
-
-<p>
-🎬 <a href="https://github.com/NitinBharti007/MovieApp"><b>Movie App</b></a><br />
-<sub>Movie search and discovery interface.</sub>
-</p>
-
-<p>
-✅ <a href="https://github.com/NitinBharti007/To_do-app"><b>To-Do List App</b></a><br />
-<sub>Simple JavaScript task management application.</sub>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🧩 UI Practice Projects</h3>
-
-<p>
-👥 <a href="https://github.com/NitinBharti007/UserManageUI"><b>User Management UI</b></a><br />
-<sub>Dashboard interface for managing users and records.</sub>
-</p>
-
-<p>
-🚗 <a href="https://github.com/NitinBharti007/ZYMO_ReactUI"><b>Car Rental App UI</b></a><br />
-<sub>Modern vehicle rental frontend experience.</sub>
-</p>
-
-<p>
-🏆 <a href="https://github.com/NitinBharti007/CMS_React_MUI"><b>Challenge Management System</b></a><br />
-<sub>Management interface built with React and Material UI.</sub>
-</p>
-
-<p>
-🛒 <a href="https://github.com/NitinBharti007/FlipKart_UI_HomePage"><b>Flipkart UI Clone</b></a><br />
-<sub>Marketplace-inspired responsive homepage.</sub>
-</p>
-
-<p>
-💳 <a href="https://github.com/NitinBharti007/Payment_Validation_UI_NextJS"><b>Payment Validation UI</b></a><br />
-<sub>Next.js payment form with validation feedback.</sub>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-<a href="https://github.com/NitinBharti007?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
 </a>
 
 </div>
@@ -392,11 +121,11 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <h2>📈 Contribution Graph</h2>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NitinBharti007&theme=react-dark&hide_border=true&area=true" width="100%" alt="Nitin Bharti GitHub Activity Graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=NitinBharti007&theme=react-dark&hide_border=true&area=true"
+  width="100%"
+  alt="Nitin Bharti GitHub activity graph"
+/>
 
 </div>
 
@@ -406,14 +135,20 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <h2>🐍 Contribution Snake</h2>
 
-</div>
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NitinBharti007/NitinBharti007/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NitinBharti007/NitinBharti007/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/NitinBharti007/NitinBharti007/output/github-contribution-grid-snake.svg" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NitinBharti007/NitinBharti007/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NitinBharti007/NitinBharti007/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/NitinBharti007/NitinBharti007/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub contribution snake animation"
+  />
 </picture>
 
 </div>
@@ -424,12 +159,14 @@ I build modern, scalable, and user-friendly web applications using clean code, s
 
 <h2>Thanks for visiting my profile 😊</h2>
 
-<h3>Let's connect, collaborate, and build something amazing.</h3>
+<p>
+<strong>Let's connect, collaborate, and build something amazing.</strong>
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%" alt="Profile Footer Wave" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"
+  width="100%"
+  alt="Profile footer"
+/>
 
 </div>
