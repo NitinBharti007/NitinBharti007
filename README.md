@@ -128,27 +128,6 @@ A three-dimensional view of my GitHub contribution journey.
 
 <div align="center">
 
-<h2>📊 Engineering Metrics</h2>
-
-<p>
-A live overview of my languages, coding habits, repositories, and recent GitHub activity.
-</p>
-
-<picture>
-  <img
-    src="./github-metrics.svg"
-    width="100%"
-    alt="Nitin Bharti GitHub engineering metrics"
-  />
-</picture>
-
-</div>
-
-<br />
-<br />
-
-<div align="center">
-
 <h2>🐍 Contribution Journey</h2>
 
 <p>
