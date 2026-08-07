@@ -1,0 +1,37 @@
+name: Weekend Contributions
+
+on:
+  schedule:
+    # Saturday and Sunday:
+    # 10:15 AM, 3:15 PM and 7:15 PM India time
+    - cron: "15 10,15,19 * * 6,0"
+      timezone: "Asia/Kolkata"
+
+  # Lets you test the workflow manually
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekend-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Add weekend activity
+        run: |
+          echo "- $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M:%S %Z')" >> weekend-activity.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "NitinBharti007"
+          git config user.email "jacksp198@gmail.com"
+
+          git add weekend-activity.md
+
+          git commit -m "chore: weekend activity $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M')"
+
+          git push
