@@ -2,16 +2,26 @@ name: Daily Contributions
 
 on:
   schedule:
-    # Every day at:
-    # 10:15 AM, 3:15 PM and 7:15 PM India time
-    - cron: "15 10,15,19 * * *"
+    # Every day - three chances to run
+    - cron: "17 10 * * *"
       timezone: "Asia/Kolkata"
 
-  # Lets you test manually
+    - cron: "37 15 * * *"
+      timezone: "Asia/Kolkata"
+
+    - cron: "53 19 * * *"
+      timezone: "Asia/Kolkata"
+
   workflow_dispatch:
 
 permissions:
   contents: write
+
+# Prevent two Daily Contributions workflows
+# from modifying main at the same time
+concurrency:
+  group: daily-contributions-main
+  cancel-in-progress: false
 
 jobs:
   daily-commit:
@@ -20,18 +30,68 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
-      - name: Add daily activity
-        run: |
-          echo "- $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M:%S %Z')" >> daily-activity.md
-
-      - name: Commit and push
+      - name: Configure Git
         run: |
           git config user.name "NitinBharti007"
           git config user.email "jacksp198@gmail.com"
 
-          git add daily-activity.md
+      - name: Sync latest main
+        run: |
+          git pull --rebase origin main
 
-          git commit -m "chore: daily activity $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M')"
+      - name: Ensure three daily commits
+        run: |
+          TODAY=$(TZ=Asia/Kolkata date '+%Y-%m-%d')
 
-          git push
+          touch daily-activity.md
+
+          COUNT=$(grep -c "^- ${TODAY} contribution-" daily-activity.md || true)
+
+          echo "Date: $TODAY"
+          echo "Existing automated commits today: $COUNT"
+
+          if [ "$COUNT" -ge 3 ]; then
+            echo "Three commits already exist for today."
+            exit 0
+          fi
+
+          START=$((COUNT + 1))
+
+          for NUMBER in $(seq "$START" 3); do
+            NOW=$(TZ=Asia/Kolkata date '+%H:%M:%S %Z')
+
+            echo "- ${TODAY} contribution-${NUMBER} ${NOW}" >> daily-activity.md
+
+            git add daily-activity.md
+
+            git commit -m "chore: daily activity ${TODAY} #${NUMBER}"
+
+            sleep 2
+          done
+
+      - name: Push safely
+        run: |
+          if git diff --quiet origin/main..HEAD; then
+            echo "Nothing new to push."
+            exit 0
+          fi
+
+          for ATTEMPT in 1 2 3; do
+            echo "Push attempt $ATTEMPT"
+
+            git pull --rebase origin main
+
+            if git push origin main; then
+              echo "Push successful."
+              exit 0
+            fi
+
+            echo "Push failed. Retrying..."
+            sleep 5
+          done
+
+          echo "Push failed after 3 attempts."
+          exit 1
