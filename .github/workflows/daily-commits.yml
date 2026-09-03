@@ -2,14 +2,8 @@ name: Daily Contributions
 
 on:
   schedule:
-    # Every day - three chances to run
-    - cron: "17 10 * * *"
-      timezone: "Asia/Kolkata"
-
-    - cron: "37 15 * * *"
-      timezone: "Asia/Kolkata"
-
-    - cron: "53 19 * * *"
+    # All runs are safely after UTC changes to the same calendar date as IST
+    - cron: "23 7,9,11,13,15,17 * * *"
       timezone: "Asia/Kolkata"
 
   workflow_dispatch:
@@ -17,8 +11,6 @@ on:
 permissions:
   contents: write
 
-# Prevent two Daily Contributions workflows
-# from modifying main at the same time
 concurrency:
   group: daily-contributions-main
   cancel-in-progress: false
@@ -44,17 +36,29 @@ jobs:
 
       - name: Ensure three daily commits
         run: |
-          TODAY=$(TZ=Asia/Kolkata date '+%Y-%m-%d')
+          IST_TODAY=$(TZ=Asia/Kolkata date '+%Y-%m-%d')
+          UTC_TODAY=$(date -u '+%Y-%m-%d')
+
+          echo "India date: $IST_TODAY"
+          echo "GitHub UTC date: $UTC_TODAY"
+
+          # Important:
+          # Between 12:00 AM and 5:29 AM IST,
+          # GitHub is still on the previous UTC date.
+          if [ "$IST_TODAY" != "$UTC_TODAY" ]; then
+            echo "Too early in India."
+            echo "Skipping so contribution is not counted on the previous day."
+            exit 0
+          fi
 
           touch daily-activity.md
 
-          COUNT=$(grep -c "^- ${TODAY} contribution-" daily-activity.md || true)
+          COUNT=$(grep -c "^- ${IST_TODAY} contribution-" daily-activity.md || true)
 
-          echo "Date: $TODAY"
-          echo "Existing automated commits today: $COUNT"
+          echo "Existing automatic commits today: $COUNT"
 
           if [ "$COUNT" -ge 3 ]; then
-            echo "Three commits already exist for today."
+            echo "Already have 3 commits today."
             exit 0
           fi
 
@@ -63,11 +67,11 @@ jobs:
           for NUMBER in $(seq "$START" 3); do
             NOW=$(TZ=Asia/Kolkata date '+%H:%M:%S %Z')
 
-            echo "- ${TODAY} contribution-${NUMBER} ${NOW}" >> daily-activity.md
+            echo "- ${IST_TODAY} contribution-${NUMBER} ${NOW}" >> daily-activity.md
 
             git add daily-activity.md
 
-            git commit -m "chore: daily activity ${TODAY} #${NUMBER}"
+            git commit -m "chore: daily activity ${IST_TODAY} #${NUMBER}"
 
             sleep 2
           done
